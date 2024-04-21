@@ -1,10 +1,10 @@
 import React from 'react'
 import About from '../../common/pages/about/About'
 
-const index = () => {
+const page = () => {
   return (
     <About/>
   )
 }
 
-export default index
+export default page
