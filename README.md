@@ -1,7 +1,3 @@
-Certainly! Here's a description for the GitHub repository of the "Homify" web app:
-
----
-
 # Homify
 
 Homify is a web application designed to simplify the process of booking hostels or homestays, whether you're traveling solo or as a group. With Homify, users can create or join parties for homestays, enabling seamless coordination and collaboration among travelers.
